@@ -77,7 +77,7 @@ void render(void) {
 int main(void) {
 
     appRunning = initiateWindow();
-
+	//
 	setup();
 
 	while (appRunning) {
